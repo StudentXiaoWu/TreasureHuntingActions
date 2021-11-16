@@ -1,2 +1,2 @@
-# Test
-test
+# Treasure hunting action
+Treasure hunting action
